@@ -1,0 +1,27 @@
+Airfoil: AG38
+Wingspan:	1500mm
+Root chord:	230mm
+Tip chord:	140mm
+Sweep:		45mm
+whasout:	2°
+
+Fuselage length: 460mm
+Fuselage height: 35mm
+
+wingspann: 600
+root: 246
+tip: 150
+foam chord: 250
+foam thickness: 40
+sweep: 45
+carriage length: 670
+feedrate 100
+xyside: left
+
+
+Airfoil: AG38
+Wingspan:	1200mm
+Root chord:	184mm
+Tip chord:	112mm
+Sweep:		36mm
+whasout:	2°

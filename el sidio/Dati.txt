@@ -1,0 +1,28 @@
+Apertura alare: 1500mm
+Root chord: 	230mm
+Root profile:	e205 - http://airfoiltools.com/airfoil/details?airfoil=e205-il
+Tip chord: 	180mm
+Tip profile:	e205 - http://airfoiltools.com/airfoil/details?airfoil=e205-il
+Sweep:		50mm
+Area:		3075.00 cm² -> 30,75 dm²
+
+V-Tail
+Root chord:	155mm
+Tip chord:	95mm
+Sweep:		60mm
+Span:		230mm
+Area:		575.00 cm²
+
+Link: https://www.ecalc.ch/cgcalc.php?deeplink=El%20Sidio;cm;mono;23;18;0;0;0;0;5;0;0;0;0;75;0;0;0;0;9;47;47;0;0;0;0;0;0;0;0;0;7;0;0;0;0;0.90;15.5;9.5;0;0;0;0;6;0;0;0;0;23;0;0;0;0;71.5;25;7.5;3;4.5;53;15;
+
+Peso
+fusoliera:	180gr
+boom:		30gr
+ali:		200gr
+vtail:		100gr
+servo:		12*4 = 50gr
+ricevente:	20gr
+tot:		580gr
+
+
+C: 580gr/30.75^1,5 = 3.4

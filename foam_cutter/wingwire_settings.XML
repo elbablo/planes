@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Stored HotWireCNC Data</comment>
+<entry key="Right Vertical Axis Name">Z</entry>
+<entry key="Kerf Tip">1.5</entry>
+<entry key="X Shift">25</entry>
+<entry key="Z Shift">80</entry>
+<entry key="Cutting Points">300</entry>
+<entry key="Wingspan">450</entry>
+<entry key="Foam Thickness">80</entry>
+<entry key="Vertical Movement Speed">600</entry>
+<entry key="pathTip">C:\Users\Stefano Barbareschi\Desktop\planes\foam_cutter\wing_profiles\Little_Devil_oz13632.dat</entry>
+<entry key="Alpha Root">0</entry>
+<entry key="X Shift Block">20</entry>
+<entry key="Block Length">350</entry>
+<entry key="Sweep">125</entry>
+<entry key="Wirelength">660</entry>
+<entry key="Root">340</entry>
+<entry key="Trailing Edge Offset">-5</entry>
+<entry key="pathExport">C:\Users\Stefano Barbareschi\Desktop\planes\weasel</entry>
+<entry key="Kerf Root">1</entry>
+<entry key="Cutting Speed">100</entry>
+<entry key="Alpha Tip">0</entry>
+<entry key="Leading Edge Offset">20</entry>
+<entry key="Distribution Coefficient">1.2</entry>
+<entry key="Tip Input File Path">Little_Devil_oz13632.dat</entry>
+<entry key="Base Thickness">10</entry>
+<entry key="Hingeline Percentage">0</entry>
+<entry key="Left Vertical Axis Name">Y</entry>
+<entry key="pathRoot">C:\Users\Stefano Barbareschi\Desktop\planes\foam_cutter\wing_profiles\Little_Devil_oz13632.dat</entry>
+<entry key="Horizontal Movement Speed">600</entry>
+<entry key="Root Input File Path">Little_Devil_oz13632.dat</entry>
+<entry key="Tip">190</entry>
+<entry key="Right Horizontal Axis Name">U</entry>
+<entry key="Left Horizontal Axis Name">X</entry>
+<entry key="Horizontal Axis Length">800</entry>
+<entry key="yClearance">30</entry>
+<entry key="Centerline">40</entry>
+<entry key="Offset Outside Block">5</entry>
+</properties>

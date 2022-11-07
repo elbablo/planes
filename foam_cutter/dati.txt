@@ -1,0 +1,14 @@
+Polistirolo:
+
+Velocità: 110mm
+Temperatura: 13V M3 S540
+Root Kerf: 1.5
+Tip kerrf: 2.5
+
+XPS:
+Velocità: 90mm
+Temperatura: 13.9V M3 S580
+Root Kerf: 2
+Tip Kerf: 2
+
+
